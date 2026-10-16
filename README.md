@@ -1,8 +1,8 @@
 # Unicar
 
-Aplicativo de carona solidária entre universitários da UniEvangélica.
+Aplicativo de carona solidária entre universitários.
 
-O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto até a faculdade, dentro de uma comunidade fechada e verificada pelo e-mail institucional. Quem pega a carona paga uma contribuição para dividir os custos da viagem. O valor aparece separado entre a parte do condutor e a taxa da plataforma, e a divisão é feita automaticamente (split payment).
+O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto até a faculdade. Cada instituição de ensino forma uma comunidade fechada, e os participantes são verificados pelo e-mail institucional. Quem pega a carona paga uma contribuição para dividir os custos da viagem. O valor aparece separado entre a parte do condutor e a taxa da plataforma, e a divisão é feita automaticamente (split payment).
 
 > Projeto Integrador do curso de Engenharia de Software da Universidade Evangélica de Goiás (UniEvangélica). O aplicativo ainda não foi implementado. Por enquanto, este repositório guarda a documentação e a estrutura inicial para o código, que será desenvolvido nos próximos períodos.
 
