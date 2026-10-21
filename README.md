@@ -8,7 +8,7 @@ O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto a
 
 ## Protótipo
 
-[Protótipo no Figma](https://www.figma.com/design/c5PUkKHAEg6q4CK5xhPppe/Unicar-Prototipo-1.0?node-id=0-1&t=g6srbN61Ck2q2Xvr-1)
+[Protótipo no Figma](https://www.figma.com/design/q2CRFerJw8dvrXXg07yZ9o)
 
 ## Estrutura do repositório
 
