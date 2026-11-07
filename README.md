@@ -6,9 +6,12 @@ O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto a
 
 > Projeto Integrador do curso de Engenharia de Software da Universidade Evangélica de Goiás (UniEvangélica). O aplicativo ainda não foi implementado. Por enquanto, este repositório guarda a documentação e a estrutura inicial para o código, que será desenvolvido nos próximos períodos.
 
-## Protótipo
+## Protótipos
 
-[Protótipo interativo de alta fidelidade (v2) no Figma](https://www.figma.com/proto/vX8xV0cjh0dEpX5nyk4aoA/Unicar-%E2%80%93-Prot%C3%B3tipo-de-Alta-Fidelidade-v2.fig?node-id=2-3&starting-point-node-id=2%3A3&t=MlzZ59HoHrZd7dFI-1)
+- [Protótipos de baixa fidelidade](https://www.figma.com/design/c5PUkKHAEg6q4CK5xhPppe)
+- [Protótipo de alta fidelidade – versão 1 (Fase 02)](https://www.figma.com/design/q2CRFerJw8dvrXXg07yZ9o)
+- [Protótipo de alta fidelidade – versão 2 (entrega final, arquivo de design)](https://www.figma.com/design/ehD4ogzARijY7OzEy7h3rA)
+- [Protótipo interativo – versão 2 (navegação pelas telas)](https://www.figma.com/proto/ehD4ogzARijY7OzEy7h3rA/Unicar?node-id=2-3&starting-point-node-id=2%3A3&scaling=scale-down)
 
 ## Estrutura do repositório
 
