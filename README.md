@@ -8,10 +8,18 @@ O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto a
 
 ## Protótipos
 
-- [Protótipos de baixa fidelidade](https://www.figma.com/design/c5PUkKHAEg6q4CK5xhPppe)
+- [Protótipos de baixa fidelidade (Fase 01 – versão histórica)](https://www.figma.com/design/c5PUkKHAEg6q4CK5xhPppe)
 - [Protótipo de alta fidelidade – versão 1 (Fase 02)](https://www.figma.com/design/q2CRFerJw8dvrXXg07yZ9o)
 - [Protótipo de alta fidelidade – versão 2](https://www.figma.com/design/ehD4ogzARijY7OzEy7h3rA)
 - [Protótipo interativo – versão 2](https://www.figma.com/proto/ehD4ogzARijY7OzEy7h3rA/Unicar?node-id=2-3&starting-point-node-id=2%3A3&scaling=scale-down)
+
+## Gestão do projeto
+
+- [Quadro Kanban (GitHub Projects)](https://github.com/users/Tocchio01101/projects/2)
+
+## Documentação
+
+- [Documento de especificação – v1.4 (entrega final do 2º período)](docs/Unicar_Especificacao_v1.4.pdf)
 
 ## Estrutura do repositório
 
