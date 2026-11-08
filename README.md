@@ -30,12 +30,12 @@ O Unicar conecta estudantes que têm carro a colegas que fazem o mesmo trajeto a
 
 ## Equipe
 
-| Matrícula | Nome                               |
-|-----------|------------------------------------|
-| 2610352   | Maikon Araki Batista Machado Filho |
-| 2611711   | Davi Tocchio de Oliveira e Silva   |
-| 2610139   | João Antônio Mundim Silva          |
-| 2611174   | Gabriel Amaral dos Santos          |
+| Matrícula | Nome                               | Função     |
+|-----------|------------------------------------|------------|
+| 2610352   | Maikon Araki Batista Machado Filho | Integrante |
+| 2611711   | Davi Tocchio de Oliveira e Silva   | Integrante |
+| 2610139   | João Antônio Mundim Silva          | Líder      |
+| 2611174   | Gabriel Amaral dos Santos          | Integrante |
 
 ## Orientadores
 
